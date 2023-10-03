@@ -1,0 +1,259 @@
+{
+  "data": [
+    {
+      "title": "salam",
+      "paragraphs": [
+        {
+          "context": "SALAM merupakan singkatan dari Sistem Administrasi Layanan Akademik. SALAM merupakan sistem yang digunakan oleh civitas akademik UIN Sunan Gunung Djati Bandung dalam memenuhi kebutuhan administrasi layanan akademik untuk menunjang aktivitas perkuliahan. Aplikasi SALAM dapat diakses menggunakan browser melalui URL https://salam.uinsgd.ac.id.",
+          "qas": [
+            {
+              "question": "SALAM merupakan singkatan dari?",
+              "id": "6d47ccf3-e78d-4c00-a0a6-8ef759b00a5d",
+              "answers": [
+                {
+                  "answer_start": 31,
+                  "text": "Sistem Administrasi Layanan Akademik"
+                }
+              ]
+            },
+            {
+              "question": "Apa itu SALAM?",
+              "id": "4db43940-b6fd-453d-8344-185d044ebf8b",
+              "answers": [
+                {
+                  "answer_start": 85,
+                  "text": "sistem yang digunakan oleh civitas akademik UIN Sunan Gunung Djati Bandung dalam memenuhi kebutuhan administrasi layanan akademik untuk menunjang aktivitas perkuliahan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Aplikasi SALAM hanya dapat digunakan oleh civitas akademik UIN Sunan Gunung Djati Bandung yang telah memiliki akun SALAM. Untuk mendapatkan akun SALAM, silahkan menghubungi admin jurusan masing-masing. Jika sudah memiliki akun SALAM, pengguna bisa melakukan login terlebih dahulu agar dapat mengakses fitur yang ada pada aplikasi SALAM.",
+          "qas": [
+            {
+              "question": "Siapa saja pengguna aplikasi salam?",
+              "id": "7b92c5ab-4c62-4442-a4f7-83fdbed4624e",
+              "answers": [
+                {
+                  "answer_start": 385,
+                  "text": "civitas akademik UIN Sunan Gunung Djati Bandung yang telah memiliki akun SALAM"
+                }
+              ]
+            },
+            {
+              "question": "Bagaimana cara mendapatkan akun SALAM?",
+              "id": "c4be9b9c-5790-40a3-8acf-794a78b87eb5",
+              "answers": [
+                {
+                  "answer_start": 495,
+                  "text": "silahkan menghubungi admin jurusan masing-masing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Aplikasi SALAM memiliki banyak fitur yang bertujuan untuk menunjang aktivitas perkuliahan. Fitur-fitur yang ada di aplikasi SALAM diantaranya grafik perkembangan akademik, pendaftaran sidang, tagihan biaya UKT dan masih banyak fitur lainnya. Pengguna dapat mengakses seluruh fitur yang ada pada aplikasi SALAM melalui menu navigasi yang berada di sebelah kiri halaman.",
+          "qas": [
+            {
+              "question": "Apa saja fitur aplikasi SALAM?",
+              "id": "445e8bef-9c66-44bc-b55c-83bec187a6c5",
+              "answers": [
+                {
+                  "answer_start": 822,
+                  "text": "grafik perkembangan akademik, pendaftaran sidang, tagihan biaya UKT dan masih banyak fitur lainnya"
+                }
+              ]
+            },
+            {
+              "question": "Bagaimana cara mengakses fitur yang ada pada aplikasi SALAM?",
+              "id": "4e358848-c004-4871-b596-5c4d25999e4f",
+              "answers": [
+                {
+                  "answer_start": 990,
+                  "text": "melalui menu navigasi yang berada di sebelah kiri halaman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Mahasiswa dapat melihat tagihan UKT yang dimiliki melalui aplikasi SALAM dengan cara mengakses menu Tagihan UKT yang berada pada menu Keuangan. Jika terdapat tagihan UKT, maka mahasiswa harus segera menyelesaikan tagihan UKT tersebut. Pembayaran UKT dapat dilakukan dengan cara memilih bank yang akan digunakan untuk membayar UKT terlebih dahulu pada menu Tagihan UKT pada aplikasi SALAM sehingga mahasiswa mendapatkan kode pembayaran dan juga tata cara pembayaran UKT, untuk menyelesaikan proses pembayaran UKT, mahasiswa harus mengikuti tata cara pembayaran yang tersedia dan juga menggunakan kode pembayaran yang sudah didapatkan.",
+          "qas": [
+            {
+              "question": "Bagaimana cara melihat tagihan UKT?",
+              "id": "9e7fdc2d-d41d-406d-b990-bb1487c469a0",
+              "answers": [
+                {
+                  "answer_start": 1474,
+                  "text": "mengakses menu Tagihan UKT yang berada pada menu Keuangan"
+                }
+              ]
+            },
+            {
+              "question": "Bagaimana cara membayar tagihan UKT?",
+              "id": "48886c64-50d3-42c3-a47f-a925c0619087",
+              "answers": [
+                {
+                  "answer_start": 1667,
+                  "text": "memilih bank yang akan digunakan untuk membayar UKT terlebih dahulu pada menu Tagihan UKT pada aplikasi SALAM sehingga mahasiswa mendapatkan kode pembayaran dan juga tata cara pembayaran UKT, untuk menyelesaikan proses pembayaran UKT, mahasiswa harus mengikuti tata cara pembayaran yang tersedia dan juga menggunakan kode pembayaran yang sudah didapatkan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Menyelesaikan tagihan UKT merupakan syarat yang harus dipenuhi oleh mahasiswa agar dapat mengisi Kartu Rencana Studi (KRS). Jika mahasiswa tidak dapat mengisi kartu rencana studi, silahkan periksa dulu apakah masih memiliki tagihan UKT atau tidak pada halaman Tagihan UKT yang berada pada menu Pembayaran. Jika sudah tidak memiliki tagihan UKT, mahasiswa dapat melihat atau mengisi kartu rencana studi dengan cara mengakses submenu Rencana Studi pada menu Perkuliahan. Pada saat mengisi kartu rencana studi, mahasiswa hanya dapat menambah mata kuliah sesuai dengan jatah SKS yang dimilikinya dengan menekan tombol Tambah KRS. Jika ingin menghapus mata kuliah yang sudah dikontrak pada KRS, mahasiswa dapat menekan icon tong sampah pada mata kuliah yang dipilih. Mahasiswa juga dapat menambahkan mata kuliah yang telah dikontrak ke aplikasi Eknows dengan menekan tombol Add to Eknows pada mata kuliah yang dipilih. Apabila ingin mencetak KRS, mahasiswa dapat menekan tombol Cetak KRS.",
+          "qas": [
+            {
+              "question": "Apa syarat mahasiswa dapat mengisi kartu rencana studi?",
+              "id": "7fba0a8b-4529-40d1-bfb0-e849b9d0ac08",
+              "answers": [
+                {
+                  "answer_start": 2023,
+                  "text": "Menyelesaikan tagihan UKT"
+                }
+              ]
+            },
+            {
+              "question": "Mengapa saya tidak dapat mengisi kartu rencana studi?",
+              "id": "935d4f8f-fc1a-4ee6-b973-49139759279a",
+              "answers": [
+                {
+                  "answer_start": 2203,
+                  "text": "silahkan periksa dulu apakah masih memiliki tagihan UKT atau tidak pada halaman Tagihan UKT yang berada pada menu Pembayaran"
+                }
+              ]
+            },
+            {
+              "question": "Bagaimana cara mengisi kartu rencana studi?",
+              "id": "e4ba47fa-9416-48ff-9f83-f0a2ee5d0c5e",
+              "answers": [
+                {
+                  "answer_start": 2437,
+                  "text": "mengakses submenu Rencana Studi pada menu Perkuliahan"
+                }
+              ]
+            },
+            {
+              "question": "Bagaimana cara menambah mata kuliah pada kartu rencana studi?",
+              "id": "35f3fbc3-a0d3-4ae3-b2a7-08d0c009f231",
+              "answers": [
+                {
+                  "answer_start": 2622,
+                  "text": "menekan tombol Tambah KRS"
+                }
+              ]
+            },
+            {
+              "question": "Bagaimana cara agar mata kuliah dapat diakses di aplikasi E-Knows?",
+              "id": "298611d1-3b83-4bcb-b02f-bc253a8a41b9",
+              "answers": [
+                {
+                  "answer_start": 2877,
+                  "text": "menekan tombol Add to Eknows pada mata kuliah yang dipilih"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Mahasiswa dapat melihat hasil studi melalui aplikasi SALAM dengan cara mengakses submenu Hasil Studi Mahasiswa pada menu Hasil Studi. Pada halaman hasil studi, mahasiswa dapat melihat hasil studi yang didapatkan oleh mahasiswa yang dipisahkan berdasarkan semester. Mahasiswa juga dapat mencetak Kartu Hasil Studi(KHS) dengan cara menekan tombol cetak KHS lalu pilih semester dan penandatangan KHS, setelah itu tekan tombol cetak untuk menyimpan KHS. Mahasiswa juga dapat mencetak transkrip sementara yang berisi hasil studi dari semester awal hingga semester terkini dengan cara menekan tombol Cetak Semua, lalu pilih penandatangan KHS, setelah itu tekan tombol Cetak.",
+          "qas": [
+            {
+              "question": "Bagaimana cara melihat hasil studi saya?",
+              "id": "167f4c12-e891-443f-9aed-84624d02b345",
+              "answers": [
+                {
+                  "answer_start": 3078,
+                  "text": "mengakses submenu Hasil Studi Mahasiswa pada menu Hasil Studi"
+                }
+              ]
+            },
+            {
+              "question": "Bagaimana cara mencetak KHS?",
+              "id": "fe4b1b92-bc7f-4cc0-a326-b557eee23839",
+              "answers": [
+                {
+                  "answer_start": 3337,
+                  "text": "menekan tombol cetak KHS lalu pilih semester dan penandatangan KHS, setelah itu tekan tombol cetak untuk menyimpan KHS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Pendaftaran sidang pada aplikasi SALAM dapat dilakukan dengan cara mengakses submenu Pengajuan Pendaftaran pada menu Pendaftaran kemudian tekan tombol Buat Ajuan Pendaftaran, setelah itu pilih jenis pendaftaran, kemudian unggah persyaratan berkas yang diperlukan lalu tekan tombol Simpan untuk menyelesaikan proses pendaftaran sidang. Setelah selesai mendaftar sidang, mohon cek status pendaftaran secara berkala untuk memastikan diterima atau ditolaknya pendaftaran yang telah dilakukan.",
+          "qas": [
+            {
+              "question": "Bagaimana cara mendaftar sidang?",
+              "id": "8ab82c2e-d857-4d3e-91a9-20b6e8381da8",
+              "answers": [
+                {
+                  "answer_start": 3743,
+                  "text": "mengakses submenu Pengajuan Pendaftaran pada menu Pendaftaran kemudian tekan tombol Buat Ajuan Pendaftaran, setelah itu pilih jenis pendaftaran, kemudian unggah persyaratan berkas yang diperlukan lalu tekan tombol Simpan untuk menyelesaikan proses pendaftaran sidang"
+                }
+              ]
+            },
+            {
+              "question": "Apa yang harus dilakukan jika sudah menyelesaikan proses pendaftaran sidang?",
+              "id": "6786112a-be8a-4f0f-9329-aa6b131bbbb1",
+              "answers": [
+                {
+                  "answer_start": 4045,
+                  "text": "mohon cek status pendaftaran secara berkala untuk memastikan diterima atau ditolaknya pendaftaran yang telah dilakukan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Pendaftaran wisuda pada aplikasi SALAM dapat dilakukan dengan cara mengakses submenu Form Pendaftaran Wisuda pada menu Wisuda, setelah itu isi form yang tersedia dan upload seluruh berkas persyaratan wisuda, untuk menyelesaikan proses pendaftaran wisuda, tekan tombol Mendaftar.",
+          "qas": [
+            {
+              "question": "Bagaimana cara mendaftar wisuda?",
+              "id": "88ddeed7-5b52-4a1b-9dc4-52f1ef87cbbc",
+              "answers": [
+                {
+                  "answer_start": 4232,
+                  "text": "mengakses submenu Form Pendaftaran Wisuda pada menu Wisuda, setelah itu isi form yang tersedia dan upload seluruh berkas persyaratan wisuda, untuk menyelesaikan proses pendaftaran wisuda, tekan tombol Mendaftar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Apabila mahasiswa belum memiliki KTM, mahasiswa dapat mencetak KTM melalui aplikasi SALAM, caranya dengan mengakses menu cetak KTM lalu mahasiswa dapat mencetak atau mengunduh KTM tersebut.",
+          "qas": [
+            {
+              "question": "Bagaimana cara mencetak KTM?",
+              "id": "8cff4484-babf-493b-aee5-f35394766d11",
+              "answers": [
+                {
+                  "answer_start": 4546,
+                  "text": "mengakses menu cetak KTM, pada halaman cetak KTM mahasiswa dapat mencetak atau mengunduh KTM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Apabila ingin mengubah password akun SALAM, pengguna dapat mengubah password akun SALAM dengan cara mengakses submenu Ubah Password pada menu Akun, setelah itu masukkan password lama dan password baru, lalu tekan tombol Ubah Password untuk mengubah password.",
+          "qas": [
+            {
+              "question": "Bagaimana cara mengubah password akun SALAM?",
+              "id": "3703f376-016a-4c9e-be0b-734e57e8d963",
+              "answers": [
+                {
+                  "answer_start": 4926,
+                  "text": "mengakses submenu Ubah Password pada menu Akun, setelah itu masukkan password lama dan password baru, lalu tekan tombol Ubah Password untuk mengubah password"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

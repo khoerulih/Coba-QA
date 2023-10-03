@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "title": "salam",
+      "paragraphs": [
+        {
+          "context": "SALAM merupakan singkatan dari Sistem Administrasi Layanan Akademik. SALAM merupakan sistem yang digunakan oleh civitas akademik UIN Sunan Gunung Djati Bandung dalam memenuhi kebutuhan administrasi layanan akademik untuk menunjang aktivitas perkuliahan. Aplikasi SALAM dapat diakses menggunakan browser melalui URL https://salam.uinsgd.ac.id.",
+          "qas": [
+            {
+              "question": "Bagaimana cara mengakses aplikasi SALAM?",
+              "id": "b9c5639e-10c5-4174-916e-e133b079e4db",
+              "answers": [
+                {
+                  "answer_start": 254,
+                  "text": "Aplikasi SALAM dapat diakses menggunakan browser melalui URL https://salam.uinsgd.ac.id"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Aplikasi SALAM hanya dapat digunakan oleh civitas akademik UIN Sunan Gunung Djati Bandung yang telah memiliki akun SALAM. Untuk mendapatkan akun SALAM, silahkan menghubungi admin jurusan masing-masing. Jika sudah memiliki akun SALAM, pengguna bisa melakukan login terlebih dahulu agar dapat mengakses fitur yang ada pada aplikasi SALAM.",
+          "qas": [
+            {
+              "question": "Siapa yang dapat menggunakan aplikasi SALAM?",
+              "id": "276ed8cd-3b5c-4281-beec-3a436d56c229",
+              "answers": [
+                {
+                  "answer_start": 385,
+                  "text": "civitas akademik UIN Sunan Gunung Djati Bandung yang telah memiliki akun SALAM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Menyelesaikan tagihan UKT merupakan syarat yang harus dipenuhi oleh mahasiswa agar dapat mengisi Kartu Rencana Studi (KRS). Jika mahasiswa tidak dapat mengisi kartu rencana studi, silahkan periksa dulu apakah masih memiliki tagihan UKT atau tidak pada halaman Tagihan UKT yang berada pada menu Pembayaran. Jika sudah tidak memiliki tagihan UKT, mahasiswa dapat melihat atau mengisi kartu rencana studi dengan cara mengakses submenu Rencana Studi pada menu Perkuliahan. Pada saat mengisi kartu rencana studi, mahasiswa hanya dapat menambah mata kuliah sesuai dengan jatah SKS yang dimilikinya dengan menekan tombol Tambah KRS. Jika ingin menghapus mata kuliah yang sudah dikontrak pada KRS, mahasiswa dapat menekan icon tong sampah pada mata kuliah yang dipilih. Mahasiswa juga dapat menambahkan mata kuliah yang telah dikontrak ke aplikasi Eknows dengan menekan tombol Add to Eknows pada mata kuliah yang dipilih. Apabila ingin mencetak KRS, mahasiswa dapat menekan tombol Cetak KRS.",
+          "qas": [
+            {
+              "question": "Bagaimana cara mencetak KRS?",
+              "id": "8e4ba810-2feb-46e0-8b84-a5a4cca2f3e2",
+              "answers": [
+                {
+                  "answer_start": 2981,
+                  "text": "menekan tombol Cetak KRS"
+                }
+              ]
+            },
+            {
+              "question": "Bagaimana cara menghapus mata kuliah pada kartu rencana studi?",
+              "id": "c4b2a6b0-1ef0-4d76-b200-027844570f0c",
+              "answers": [
+                {
+                  "answer_start": 2729,
+                  "text": "menekan icon tong sampah pada mata kuliah yang dipilih"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Mahasiswa dapat melihat hasil studi melalui aplikasi SALAM dengan cara mengakses submenu Hasil Studi Mahasiswa pada menu Hasil Studi. Pada halaman hasil studi, mahasiswa dapat melihat hasil studi yang didapatkan oleh mahasiswa yang dipisahkan berdasarkan semester. Mahasiswa juga dapat mencetak Kartu Hasil Studi(KHS) dengan cara menekan tombol cetak KHS lalu pilih semester dan penandatangan KHS, setelah itu tekan tombol cetak untuk menyimpan KHS. Mahasiswa juga dapat mencetak transkrip sementara yang berisi hasil studi dari semester awal hingga semester terkini dengan cara menekan tombol Cetak Semua, lalu pilih penandatangan KHS, setelah itu tekan tombol Cetak.",
+          "qas": [
+            {
+              "question": "Bagaimana cara menyimpan KHS?",
+              "id": "0e91cff3-7adc-4f1a-a910-92b048f65102",
+              "answers": [
+                {
+                  "answer_start": 3337,
+                  "text": "menekan tombol cetak KHS lalu pilih semester dan penandatangan KHS, setelah itu tekan tombol cetak untuk menyimpan KHS"
+                }
+              ]
+            },
+            {
+              "question": "Bagaimana cara mendapatkan transkrip sementara?",
+              "id": "f3d2b2c1-88b4-4e3d-9da0-34894e472a1c",
+              "answers": [
+                {
+                  "answer_start": 3586,
+                  "text": "menekan tombol Cetak Semua, lalu pilih penandatangan KHS, setelah itu tekan tombol Cetak"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Mahasiswa juga dapat mengubah atau melengkapi biodata pada aplikasi SALAM dengan cara mengakses submenu Biodata pada menu Akun, lalu tekan tombol Ubah Biodata untuk menyimpan perubahan",
+          "qas": [
+            {
+              "question": "Bagaimana cara mengubah biodata pada SALAM?",
+              "id": "7e015253-11e3-4df5-89bd-ad3ce2e21417",
+              "answers": [
+                {
+                  "answer_start": 4726,
+                  "text": "mengakses submenu Biodata pada menu Akun, lalu tekan tombol Ubah Biodata untuk menyimpan perubahan"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "context": "Pengguna dapat logout akun SALAM dengan cara menekan tombol Logout pada bilah menu kiri paling bawah atau dengan menekan profile yang ada di atas kanan halaman, lalu klik Sign Out. Dengan menekan tombol logout atau sign out, mahasiswa akan diarahkan kembali pada halaman login.",
+          "qas": [
+            {
+              "question": "Bagaimana cara logout akun SALAM?",
+              "id": "02af7e33-8229-47ff-adea-40aaa0578e67",
+              "answers": [
+                {
+                  "answer_start": 5130,
+                  "text": "menekan tombol Logout pada bilah menu kiri paling bawah atau dengan menekan profile yang ada di atas kanan halaman, lalu klik Sign Out"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
